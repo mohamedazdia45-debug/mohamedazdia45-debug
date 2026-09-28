@@ -10,7 +10,5 @@ Here are some ideas to get you started : mejorar  mi logica  en programacion
 - 👯 I’m looking to collaborate on ... pequenos   proyectos   de  clase   y   ejercicios  grupales
 - 🤔 I’m looking for help with ...entender  mejor  las  bases  de datos  relacionales
 - 💬 Ask me about ...lo  estoy   aprendiendo   en   1 DAW 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...Disfruto del café casi tanto como del buen código! (Un toque de humor suave y típico).
 
